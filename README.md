@@ -6,6 +6,13 @@
     practices
 </h3>
 
+<br />
+<h2>👇 Initiate a connection with me through your device's terminal.</h2>
+
+```
+npx arup
+```
+
 <p align="left">
     <img
         src="https://komarev.com/ghpvc/?username=arup-basak&label=Profile%20views&color=0e75b6&style=flat"
