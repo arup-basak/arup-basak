@@ -47,11 +47,11 @@ npx arup
             height="30"
             width="40"
     /></a>
-    <a href="https://linkedin.com/in/arup-basak-4539aa251" target="blank"
+    <a href="www.linkedin.com/in/basak-arup" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="arup-basak-4539aa251"
+            alt="basak-arup"
             height="30"
             width="40"
     /></a>
