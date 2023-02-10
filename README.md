@@ -109,27 +109,15 @@ npx arup
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            src="https://skillicons.dev/icons?i=java"
             alt="java"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://www.gnu.org/software/bash/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://skillicons.dev/icons?i=bash"
-            alt="bash"
             width="40"
             height="40"
         />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            src="https://skillicons.dev/icons?i=cpp"
             alt="cplusplus"
             width="40"
             height="40"
@@ -137,7 +125,7 @@ npx arup
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            src="https://skillicons.dev/icons?i=cs"
             alt="csharp"
             width="40"
             height="40"
@@ -145,7 +133,7 @@ npx arup
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            src="https://skillicons.dev/icons?i=css"
             alt="css3"
             width="40"
             height="40"
@@ -155,14 +143,6 @@ npx arup
         <img
             src="https://skillicons.dev/icons?i=tailwind"
             alt="tailwind"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://skillicons.dev/icons?i=docker"
-            alt="docker"
             width="40"
             height="40"
         />
@@ -217,7 +197,7 @@ npx arup
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            src="https://skillicons.dev/icons?i=js"
             alt="javascript"
             width="40"
             height="40"
@@ -289,7 +269,7 @@ npx arup
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            src="https://skillicons.dev/icons?i=js"
             alt="typescript"
             width="40"
             height="40"
@@ -327,14 +307,14 @@ npx arup
             height="40"
         />
     </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=unity"
             alt="unity"
             width="40"
             height="40"
         />
-    </a>
+    </a> -->
 </p>
 
 
