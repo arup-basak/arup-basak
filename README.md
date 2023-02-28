@@ -115,6 +115,14 @@ npx arup
             height="40"
         />
     </a>
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
+        <img
+            src="https://skillicons.dev/icons?i=c"
+            alt="c"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=cpp"
