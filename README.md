@@ -6,8 +6,13 @@
     practices
 </h3>
 
+<h2>🌐Checkout My Digital Playground</h2>
+
+[arupbasak.co.in](https://arupbasak.co.in)
+
 <br />
 <h2>👇 Initiate a connection with me through your device's terminal.</h2>
+
 
 ```
 npx arup
