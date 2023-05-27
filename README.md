@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arup Basak</h1>
 <h3 align="center">
-    Full Stack Developer with expertise in Android, Java, Kotlin, JavaScript and
+    Full Stack Developer with expertise in Android, Java, JavaScript and
     Frontend technologies. Strong experience in mobile and web application
     development. Continuously learning new technologies and industry best
     practices
 </h3>
 
-<h2>🌐Checkout My Digital Playground</h2>
-
-[arupbasak.co.in](https://arupbasak.co.in)
-
 <br />
 <h2>👇 Initiate a connection with me through your device's terminal.</h2>
-
 
 ```
 npx arup
@@ -25,21 +20,20 @@ npx arup
     />
 </p>
 
-
-
-- 🌱 I’m currently learning **Unity and React**
+- 🌱 I’m currently learning **NextJS, MongoDB**
 - 👨‍💻 All of my projects are
-  available at [https://github.com/arup-basak](https://github.com/arup-basak)
-- 💬Ask me about **Android, JavaScript, Java, C++**
+  available at [**Github**](https://github.com/arup-basak)
+- 🌐 Checkout My Digital Playground [arupbasak.com](https://arupbasak.com)
+- 💬Ask me about **TypeScript, React, Android, Java**
 - 📫 How to reach me
   **email.arupbasak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://dev.to/arupbasak" target="blank"
+    <a href="https://medium.com/@_arupbasak_" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="arupbasak"
             height="30"
             width="40"
@@ -52,19 +46,11 @@ npx arup
             height="30"
             width="40"
     /></a>
-    <a href="www.linkedin.com/in/basak-arup" target="blank"
+    <a href="https://linkedin.com/in/basak-arup" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="basak-arup"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://fb.com/arupbasak2003" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="arupbasak2003"
             height="30"
             width="40"
     /></a>
@@ -240,6 +226,14 @@ npx arup
             height="40"
         />
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://skillicons.dev/icons?i=mongo"
+            alt="mongodb"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=python"
@@ -282,7 +276,7 @@ npx arup
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://skillicons.dev/icons?i=js"
+            src="https://skillicons.dev/icons?i=ts"
             alt="typescript"
             width="40"
             height="40"
@@ -320,25 +314,20 @@ npx arup
             height="40"
         />
     </a>
-<!--     <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://skillicons.dev/icons?i=unity"
-            alt="unity"
-            width="40"
-            height="40"
-        />
-    </a> -->
 </p>
 
-
-<p>
-     <img 
+<h3 align="left">Most Used Languages: </h3>
+<div>
+     <!-- <img 
 	align="center"
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=arup-basak&layout=compact" 
 	alt="Language Stat" 
 	/>
-</p>
-
+	<br/>
+	<p>Hehe, I love TypeScript</p> -->
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arup-basak" alt="arup-basak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arup-basak" alt="arup-basak" />
+</div>
 
 <p>
      <img
@@ -348,25 +337,6 @@ npx arup
     />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-	   <img
-            src="https://github-profile-trophy.vercel.app/?username=arup-basak"
-            alt="arup-basak"
-    />
-  </a>
-</p>
+<br /><br /><br /><br />
 
-<br /> <br />
-
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/arup">
-        <img
-            align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-            height="50"
-            width="210"
-            alt="arup"
-    /></a>
-</p>
+<p align="center"><a href="https://www.buymeacoffee.com/arup" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
