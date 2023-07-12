@@ -266,6 +266,14 @@ npx arup
             height="40"
         />
     </a>
+	<a href="https://www.postman.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://skillicons.dev/icons?i=postman"
+            alt="postman"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=sqlite"
