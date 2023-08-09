@@ -234,6 +234,14 @@ npx arup
             height="40"
         />
     </a>
+    <a href="https://prisma.io" target="_blank" rel="noreferrer">
+        <img
+            src="https://skillicons.dev/icons?i=prisma"
+            alt="prisma"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=python"
