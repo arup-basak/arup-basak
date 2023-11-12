@@ -90,6 +90,14 @@ npx arup
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://skillicons.dev/icons?i=aws"
+            alt="android"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=androidstudio"
