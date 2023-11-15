@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arup Basak</h1>
 <h3 align="center">
-    Full Stack Developer with expertise in Android, Java, JavaScript and
-    Frontend technologies. Strong experience in mobile and web application
-    development. Continuously learning new technologies and industry best
-    practices
+    Full Stack Developer with expertise in Android and Mern Stack technologies. Strong experience in mobile and web application development. Continuously learning new technologies and industry best practices
 </h3>
 
 <br />
