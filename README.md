@@ -226,6 +226,14 @@ npx arup
             height="40"
         />
     </a>
+	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://skillicons.dev/icons?i=express"
+            alt="express"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=mongo"
