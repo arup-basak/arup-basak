@@ -282,6 +282,14 @@ npx arup
             height="40"
         />
     </a>
+    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://skillicons.dev/icons?i=redux"
+            alt="redux"
+            width="40"
+            height="40"
+        />
+    </a>
 	<a href="https://www.postman.com" target="_blank" rel="noreferrer">
         <img
             src="https://skillicons.dev/icons?i=postman"
