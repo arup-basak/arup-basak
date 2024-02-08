@@ -346,7 +346,12 @@ npx arup
 </p>
 
 <h3 align="left">My Coding Time: </h3>
-[![Arup's Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=arupbasak&layout=compact)]
+     <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=arupbasak&layout=compact"
+        alt="arup-basak"
+    />
+
 
 <h3 align="left">Most Used Languages: </h3>
 <div>
